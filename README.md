@@ -10,7 +10,7 @@ This Scaffold-ETH 2 extension comes pre-configured with [flexy.tech](https://fle
 1. Create a new project with the flexy.tech extension:
 
 ```bash
-npx create-eth@latest -e @tantodefi/flexy-extension
+npx create-eth@latest -e tantodefi/flexy-extension
 ```
 
 ## Documentation
