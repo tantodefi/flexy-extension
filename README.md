@@ -3,7 +3,7 @@
 ![alt text](./flexy1.png)
 ![alt text](./flexy2.png)
 
-This Scaffold-ETH 2 extension comes pre-configured with [flexy.tech](https://flexy.tyech/), providing an example to help you get started quickly. Follow the steps below to set up and start using the extension.
+This Scaffold-ETH 2 extension comes pre-configured with [flexy.tech](https://flexy.tech/), providing an example to help you get started quickly. Follow the steps below to set up and start using the extension.
 
 ## Installation
 
